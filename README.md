@@ -13,5 +13,5 @@ https://www.google.com/recaptcha/admin/create
 
 Finally replace: 
 
-    >String SITE_KEY = "6LegUt8dAAAAAEo0tU4pk1Q7w--_xxxxxxxxxxxxx";
-    >String SECRET_KEY = "6LegUt8dAAAAAKNSWXDu7cA_xxxxxxxxxxxxxxx";
+    String SITE_KEY = "6LegUt8dAAAAAEo0tU4pk1Q7w--_xxxxxxxxxxxxx";
+    String SECRET_KEY = "6LegUt8dAAAAAKNSWXDu7cA_xxxxxxxxxxxxxxx";
