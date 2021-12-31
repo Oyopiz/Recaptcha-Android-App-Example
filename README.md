@@ -8,4 +8,5 @@ This project uses gradle build System. To execute this project, "Import Project"
 Then Open the project Location in Android Studio
 
 # reCaptcha Api
-(https://www.google.com/recaptcha/admin/create)
+Get API KEY here:
+https://www.google.com/recaptcha/admin/create
