@@ -11,5 +11,6 @@ Then Open the project Location in Android Studio
 Get API KEY here:
 https://www.google.com/recaptcha/admin/create
 Finally replace the 
+
     >String SITE_KEY = "6LegUt8dAAAAAEo0tU4pk1Q7w--_xxxxxxxxxxxxx";
-   >String SECRET_KEY = "6LegUt8dAAAAAKNSWXDu7cA_xxxxxxxxxxxxxxx";
+    >String SECRET_KEY = "6LegUt8dAAAAAKNSWXDu7cA_xxxxxxxxxxxxxxx";
